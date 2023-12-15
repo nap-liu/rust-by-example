@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./14.Generics/14.9 Phantom type parameters/Cargo.toml"
+    "./17.macro_rules/Cargo.toml"
   ]
 }
