@@ -1,5 +1,5 @@
 {
   "rust-analyzer.linkedProjects": [
-    "./19.Std Library types/Cargo.toml"
+    "./24.Meta/24.1 documentation/Cargo.toml"
   ]
 }
